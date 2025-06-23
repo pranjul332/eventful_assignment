@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Coverage reports
+coverage/
+
+# OS generated files
+*.swp
+*.swo
+
+# Uploaded files or temporary data
+uploads/
+*.zip
+
+# Optional: lock files (uncomment if you're using only one package manager)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
