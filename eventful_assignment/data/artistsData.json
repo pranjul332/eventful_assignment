@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "Aria Sharma",
+    "category": ["Singers"],
+    "location": "Mumbai",
+    "fee": "15000-25000",
+    "bio": "Professional Bollywood playback singer with 8+ years experience",
+    "languages": ["Hindi", "English", "Punjabi"],
+    "rating": 4.8,
+    "experience": "8+ years",
+    "image": "https://images.unsplash.com/photo-1494790108755-2616c5e4c6c4?w=400"
+  },
+  {
+    "id": 2,
+    "name": "Ravi Kumar",
+    "category": ["Dancers"],
+    "location": "Delhi",
+    "fee": "8000-15000",
+    "bio": "Contemporary and classical dance performer",
+    "languages": ["Hindi", "English"],
+    "rating": 4.6,
+    "experience": "5+ years",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Patel",
+    "category": ["Speakers"],
+    "location": "Bangalore",
+    "fee": "20000-35000",
+    "bio": "Motivational speaker and business consultant",
+    "languages": ["English", "Hindi", "Gujarati"],
+    "rating": 4.9,
+    "experience": "12+ years",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400"
+  },
+  {
+    "id": 4,
+    "name": "DJ Arjun",
+    "category": ["DJs"],
+    "location": "Goa",
+    "fee": "12000-20000",
+    "bio": "Electronic music producer and club DJ",
+    "languages": ["English", "Hindi"],
+    "rating": 4.7,
+    "experience": "6+ years",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400"
+  },
+  {
+    "id": 5,
+    "name": "Sneha Reddy",
+    "category": ["Singers", "Dancers"],
+    "location": "Hyderabad",
+    "fee": "10000-18000",
+    "bio": "Versatile performer specializing in Telugu and Hindi entertainment",
+    "languages": ["Telugu", "Hindi", "English"],
+    "rating": 4.5,
+    "experience": "4+ years",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400"
+  },
+  {
+    "id": 6,
+    "name": "Rohit Mehra",
+    "category": ["Speakers"],
+    "location": "Pune",
+    "fee": "15000-25000",
+    "bio": "Corporate trainer and leadership coach",
+    "languages": ["English", "Hindi", "Marathi"],
+    "rating": 4.8,
+    "experience": "10+ years",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400"
+  }
+]
