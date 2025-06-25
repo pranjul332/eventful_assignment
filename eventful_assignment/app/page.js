@@ -65,7 +65,7 @@ export default function HomePage() {
               For Your Events
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-              Connect with India's top performing artists. From singers to
+              Connect with India&apos;s top performing artists. From singers to
               speakers, find the perfect talent for your next event.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

@@ -82,7 +82,7 @@ export default function OnboardPage() {
           </h2>
           <p className="text-gray-600 mb-6">
             Thank you for joining Artistly! Your profile has been submitted for
-            review. We'll contact you within 24-48 hours.
+            review. We&apos;ll contact you within 24-48 hours.
           </p>
           <button
             onClick={() => setSubmitSuccess(false)}
